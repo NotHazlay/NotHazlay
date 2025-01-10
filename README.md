@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NotHazlay
-- 👀 I’m interested in DIY projects,Python,Java script 
+- 👀 I’m interested in DIY projects,Python,Java 
 - 🌱 I’m currently learning Python,HTML5,C++,Java
 - 💞️ I’m looking to collaborate on Android App Dev
 - 😄 Pronouns: He/Him
