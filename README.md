@@ -1,173 +1,262 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e87a,100:007a3d&height=230&section=header&text=NotHazlay&fontSize=68&fontColor=ffffff&fontAlignY=38&fontStyle=bold&desc=Mechatronics%20Engineering%20%7C%20Software%20%7C%20Electronics%20%7C%20RF%20%7C%20Space%20Systems&descSize=17&descAlignY=58&descColor=ffffffcc&animation=fadeIn&stroke=ffffff&strokeWidth=2" width="100%" alt="NotHazlay GitHub profile banner"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e87a,100:007a3d&height=240&section=header&text=NotHazlay&fontSize=72&fontColor=ffffff&fontAlignY=38&fontStyle=bold&desc=Mechatronics%20%7C%20Software%20%7C%20Electronics%20%7C%20RF%20%7C%20Space&descSize=18&descAlignY=58&descColor=ffffffcc&animation=fadeIn&stroke=ffffff&strokeWidth=2" width="100%" alt="NotHazlay"/>
+
+### Engineering the gap between the physical and digital world.
+
+`Mechatronics Engineering` `Software Development` `Electronics` `RF` `Space Systems` `Infrastructure`
+
 </div>
 
-<div align="center">
+---
 
 ## About Me
 
-Mechatronics engineering student exploring the intersection of **hardware, software, RF communications, satellite systems, and infrastructure**.
+I'm a **mechatronics engineering student** with a broad interest in how hardware, software, communications, and physical systems come together.
 
-I enjoy building and experimenting across disciplines, from embedded systems and electronics to software development, self-hosted infrastructure, amateur radio, satellite reception, radio astronomy, and amateur rocketry.
+I build and experiment across a range of disciplines — from **embedded electronics and software development** to **self-hosted infrastructure, RF systems, amateur radio, satellite communications, radio astronomy, and amateur rocketry**.
 
-My work is driven by hands-on experimentation, independent research, and a desire to understand how complex systems work from the ground up.
+Most of my projects come from one simple question:
 
-</div>
+> **"Can I build it myself?"**
+
+I'm particularly interested in understanding systems at a practical level — designing them, putting them together, breaking them, debugging them, and figuring out why they work.
 
 ---
 
-## Areas of Interest
+## What I'm Into
 
-* Mechatronics Engineering
-* Electronics & Embedded Systems
-* Robotics & Automation
-* Software Development
-* Systems Engineering
-* RF Engineering
-* Amateur Radio
-* Antenna Design
-* Software-Defined Radio
-* Satellite Communications
-* Satellite Reception & Telemetry
-* Radio Astronomy
-* Space Systems
+<table>
+<tr>
+<td width="50%">
+
+### Engineering
+
+* Mechatronics
+* Electronics
+* Embedded Systems
+* Robotics
+* Automation
+* Control Systems
+* Experimental Engineering
 * Amateur Rocketry
-* Homelabbing & Self-Hosted Infrastructure
-* Linux & Networking
-* Experimental Electronics
-* Open-Source Technology
+
+</td>
+<td width="50%">
+
+### Software & Systems
+
+* Software Development
+* Backend Development
+* Linux
+* DevOps
+* Homelabbing
+* Self-Hosting
+* Networking
+* Virtualization
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### RF & Communications
+
+* Software-Defined Radio
+* Amateur Radio
+* RF Engineering
+* Antenna Design
+* VHF / UHF / HF
+* Digital Modes
+* FT8
+* RF Experimentation
+
+</td>
+<td width="50%">
+
+### Space & Research
+
+* Satellite Communications
+* Satellite Reception
+* Satellite Telemetry
+* Weather Satellites
+* Radio Astronomy
+* Hydrogen-Line Astronomy
+* Space Systems
+* Experimental Research
+
+</td>
+</tr>
+</table>
 
 ---
+
+# Technology Stack
 
 ## Languages
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="45" height="45" alt="Bash"/>
+<img src="https://skillicons.dev/icons?i=python,js,html,bash" height="50" alt="Python JavaScript HTML Bash"/>
 </p>
+
+`Python` `JavaScript` `HTML5` `Bash`
 
 ---
 
 ## Backend & Databases
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL"/>
+<img src="https://skillicons.dev/icons?i=nodejs,postgres,mysql" height="50" alt="Node.js PostgreSQL MySQL"/>
 </p>
+
+`Node.js` `PostgreSQL` `MySQL`
 
 ---
 
 ## DevOps & Infrastructure
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45" alt="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" height="45" alt="Linux"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="45" height="45" alt="Nginx"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
+<img src="https://skillicons.dev/icons?i=docker,linux,nginx,git,github" height="50" alt="Docker Linux Nginx Git GitHub"/>
 </p>
 
-**Infrastructure:** Docker · Proxmox · TrueNAS · Nginx · Tailscale · WireGuard · Virtualization · Networking · Self-Hosting
+`Docker` `Linux` `Nginx` `Git` `GitHub` `Proxmox` `TrueNAS` `Tailscale` `WireGuard`
 
 ---
 
-## Embedded Systems & Electronics
+## Embedded & Hardware
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="45" height="45" alt="Arduino"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="45" height="45" alt="Raspberry Pi"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="C++"/>
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,cpp" height="50" alt="Arduino Raspberry Pi C++"/>
 </p>
 
-**Embedded:** Arduino · C++ · ESP32 · Raspberry Pi · Sensors · Electronics · Automation · Microcontrollers
+`Arduino` `C++` `ESP32` `Raspberry Pi` `Sensors` `Microcontrollers` `Electronics`
+
+> C++ is primarily used for my Arduino and embedded work.
 
 ---
 
-## RF, Radio & Space
+# Things I've Built & Experimented With
 
-**Amateur Radio:** Digital Modes · FT8 · VHF/UHF · HF · Amateur Radio Operations
+```text
+┌──────────────────────────────────────────────────────────────┐
+│                      ENGINEERING LAB                         │
+├──────────────────────────────────────────────────────────────┤
+│                                                              │
+│  Software       Python / SQL / Backend / Automation          │
+│                                                              │
+│  Infrastructure Docker / Linux / Virtualization / Homelab    │
+│                                                              │
+│  Electronics    Arduino / ESP32 / Raspberry Pi / Sensors     │
+│                                                              │
+│  RF             SDR / Antennas / VHF / UHF / HF              │
+│                                                              │
+│  Radio          FT8 / Digital Modes / Amateur Radio          │
+│                                                              │
+│  Satellites     Telemetry / Weather Satellites / SDR         │
+│                                                              │
+│  Astronomy      Hydrogen-Line Radio Astronomy                │
+│                                                              │
+│  Space          Satellite Systems / Amateur Rocketry          │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+```
 
-**RF Engineering:** SDR · RTL-SDR · Antenna Design · Yagi Antennas · RF Experimentation · Signal Reception
+### Selected Projects & Experiments
 
-**Satellite Systems:** Satellite Communications · Telemetry · Weather Satellites · Satellite Tracking · Signal Reception
-
-**Radio Astronomy:** Hydrogen-Line Radio Astronomy · RF Astronomy · Experimental Radio Receivers
-
-**Space & Experimental Engineering:** Amateur Rocketry · Experimental Electronics · DIY Engineering Systems
-
----
-
-## Projects & Experimentation
-
-* Self-hosted homelab infrastructure
-* Docker-based services and applications
-* Linux server administration
-* Virtualization with Proxmox
-* Network infrastructure and remote-access systems
-* Arduino and ESP32 embedded projects
-* Raspberry Pi automation systems
-* DIY VHF/UHF and satellite antennas
-* Software-defined radio experiments
-* Weather satellite reception and image processing
-* Satellite telemetry experiments
-* FT8 and digital radio experimentation
-* Hydrogen-line radio astronomy
-* Satellite communication experiments
-* Amateur rocketry projects
-* Python and SQL-based applications
-* Hardware/software integration projects
-
----
-
-## Technology Stack
-
-**Programming**
-
-`Python` `JavaScript` `HTML5` `Bash` `C++`
-
-**Backend & Databases**
-
-`Node.js` `PostgreSQL` `MySQL`
-
-**DevOps & Infrastructure**
-
-`Docker` `Linux` `Git` `GitHub` `Proxmox` `TrueNAS` `Nginx` `Tailscale` `WireGuard`
-
-**Embedded & Hardware**
-
-`Arduino` `ESP32` `Raspberry Pi` `RTL-SDR`
-
-**RF & Communications**
-
-`SDR` `RF` `VHF` `UHF` `HF` `FT8` `Amateur Radio` `Satellite Communications`
+| Area            | Work                                                                 |
+| --------------- | -------------------------------------------------------------------- |
+| Homelab         | Self-hosted services, Docker, storage, virtualization and networking |
+| SDR             | Wideband signal reception and RF experimentation                     |
+| Antennas        | DIY VHF/UHF antennas, Yagis and satellite antennas                   |
+| Satellites      | Weather satellite reception, telemetry and communications            |
+| Radio           | FT8, digital modes and amateur radio experimentation                 |
+| Radio Astronomy | Hydrogen-line observations and experimental RF systems               |
+| Embedded        | Arduino, ESP32 and Raspberry Pi projects                             |
+| Automation      | Hardware-based automation and control systems                        |
+| Software        | Python, SQL and backend applications                                 |
+| Space           | Satellite systems and amateur rocketry                               |
 
 ---
 
-## Current Focus
+# Current Focus
 
-* Mechatronics and control systems
-* Embedded systems
-* Electronics and RF engineering
-* Software development
-* Linux and infrastructure
-* Robotics and automation
-* Satellite systems
-* Radio communications
-* Space-related engineering
+```text
+MECHATRONICS
+    ↓
+Embedded Systems
+    ↓
+Electronics + Control
+    ↓
+Software + Automation
+    ↓
+RF + Communications
+    ↓
+Satellite Systems
+    ↓
+Space Engineering
+```
+
+Currently expanding my knowledge in:
+
+`Control Systems` `Signals & Systems` `Embedded Systems` `RF Engineering`
+`Robotics` `Linux` `Networking` `Software Development` `Satellite Systems`
+
+---
+
+## The Homelab
+
+One of my main playgrounds is my personal homelab.
+
+```text
+Hardware
+   │
+   ├── Linux
+   ├── Docker
+   ├── Virtualization
+   ├── Storage
+   ├── Networking
+   └── Self-hosted Services
+             │
+             └── Experiment → Break → Debug → Improve
+```
+
+It's where I experiment with infrastructure, networking, containers, storage, automation, and self-hosted applications.
+
+---
+
+## RF & Space
+
+My interest in RF started with experimentation and gradually expanded into **amateur radio, SDR, antennas, satellite reception, digital communications, and radio astronomy**.
+
+I've experimented with:
+
+`RTL-SDR` `SDR++` `SatDump` `WSJT-X` `FT8` `VHF` `UHF` `HF`
+
+and built or experimented with various DIY antenna systems for terrestrial and satellite reception.
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=NotHazlay&show_icons=true&theme=transparent&hide_border=true&title_color=00e87a&icon_color=00e87a&text_color=888888" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotHazlay&layout=compact&theme=transparent&hide_border=true&title_color=00e87a&text_color=888888" height="170"/>
+
+</div>
 
 ---
 
 <div align="center">
 
-### Engineering across hardware, software, and the physical world.
+### Build. Experiment. Understand.
+
+`Hardware` `Software` `RF` `Space` `Infrastructure`
 
 <br>
 
-<sub>Mechatronics • Electronics • Software • RF • Space Systems • Infrastructure</sub>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e87a,100:007a3d&height=100&section=footer" width="100%" alt="Footer wave"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e87a,100:007a3d&height=110&section=footer" width="100%" alt="Footer"/>
 
 </div>
