@@ -1,16 +1,41 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e87a,100:007a3d&height=220&section=header&text=NotHazlay&fontSize=68&fontColor=ffffff&fontAlignY=38&fontStyle=bold&desc=Mechatronics%20Engineering%20%7C%20Software%20%7C%20Electronics%20%7C%20Infrastructure&descSize=18&descAlignY=58&descColor=ffffffcc&animation=fadeIn&stroke=ffffff&strokeWidth=2" width="100%" alt="GitHub Profile banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e87a,100:007a3d&height=230&section=header&text=NotHazlay&fontSize=68&fontColor=ffffff&fontAlignY=38&fontStyle=bold&desc=Mechatronics%20Engineering%20%7C%20Software%20%7C%20Electronics%20%7C%20RF%20%7C%20Space%20Systems&descSize=17&descAlignY=58&descColor=ffffffcc&animation=fadeIn&stroke=ffffff&strokeWidth=2" width="100%" alt="NotHazlay GitHub profile banner"/>
 </div>
 
 <div align="center">
 
 ## About Me
 
-Mechatronics engineering student with interests spanning software development, electronics, embedded systems, infrastructure, and radio communications.
+Mechatronics engineering student exploring the intersection of **hardware, software, RF communications, satellite systems, and infrastructure**.
 
-I work across hardware and software, with a focus on practical engineering projects, automation, self-hosted infrastructure, and embedded systems.
+I enjoy building and experimenting across disciplines, from embedded systems and electronics to software development, self-hosted infrastructure, amateur radio, satellite reception, radio astronomy, and amateur rocketry.
+
+My work is driven by hands-on experimentation, independent research, and a desire to understand how complex systems work from the ground up.
 
 </div>
+
+---
+
+## Areas of Interest
+
+* Mechatronics Engineering
+* Electronics & Embedded Systems
+* Robotics & Automation
+* Software Development
+* Systems Engineering
+* RF Engineering
+* Amateur Radio
+* Antenna Design
+* Software-Defined Radio
+* Satellite Communications
+* Satellite Reception & Telemetry
+* Radio Astronomy
+* Space Systems
+* Amateur Rocketry
+* Homelabbing & Self-Hosted Infrastructure
+* Linux & Networking
+* Experimental Electronics
+* Open-Source Technology
 
 ---
 
@@ -45,11 +70,11 @@ I work across hardware and software, with a focus on practical engineering proje
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
 </p>
 
-**Infrastructure:** Docker · Proxmox · TrueNAS · Nginx · Tailscale · WireGuard · Virtualization · Networking
+**Infrastructure:** Docker · Proxmox · TrueNAS · Nginx · Tailscale · WireGuard · Virtualization · Networking · Self-Hosting
 
 ---
 
-## Embedded Systems & Hardware
+## Embedded Systems & Electronics
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="45" height="45" alt="Arduino"/>
@@ -57,31 +82,91 @@ I work across hardware and software, with a focus on practical engineering proje
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="C++"/>
 </p>
 
-**Embedded:** Arduino · C++ · ESP32 · Raspberry Pi · Sensors · Electronics · Automation
+**Embedded:** Arduino · C++ · ESP32 · Raspberry Pi · Sensors · Electronics · Automation · Microcontrollers
 
 ---
 
-## Engineering & Radio
+## RF, Radio & Space
 
-**Engineering:** Mechatronics · Electronics · Robotics · Automation · Embedded Systems
+**Amateur Radio:** Digital Modes · FT8 · VHF/UHF · HF · Amateur Radio Operations
 
-**Radio & RF:** SDR · Amateur Radio · Antenna Design · RF Communications · Satellite Reception · Digital Modes
+**RF Engineering:** SDR · RTL-SDR · Antenna Design · Yagi Antennas · RF Experimentation · Signal Reception
+
+**Satellite Systems:** Satellite Communications · Telemetry · Weather Satellites · Satellite Tracking · Signal Reception
+
+**Radio Astronomy:** Hydrogen-Line Radio Astronomy · RF Astronomy · Experimental Radio Receivers
+
+**Space & Experimental Engineering:** Amateur Rocketry · Experimental Electronics · DIY Engineering Systems
 
 ---
 
-## Tools & Technologies
+## Projects & Experimentation
 
-`Python` `JavaScript` `HTML5` `Bash`
+* Self-hosted homelab infrastructure
+* Docker-based services and applications
+* Linux server administration
+* Virtualization with Proxmox
+* Network infrastructure and remote-access systems
+* Arduino and ESP32 embedded projects
+* Raspberry Pi automation systems
+* DIY VHF/UHF and satellite antennas
+* Software-defined radio experiments
+* Weather satellite reception and image processing
+* Satellite telemetry experiments
+* FT8 and digital radio experimentation
+* Hydrogen-line radio astronomy
+* Satellite communication experiments
+* Amateur rocketry projects
+* Python and SQL-based applications
+* Hardware/software integration projects
+
+---
+
+## Technology Stack
+
+**Programming**
+
+`Python` `JavaScript` `HTML5` `Bash` `C++`
+
+**Backend & Databases**
+
 `Node.js` `PostgreSQL` `MySQL`
-`Docker` `Linux` `Git` `GitHub`
-`Proxmox` `TrueNAS` `Nginx` `Tailscale` `WireGuard`
-`Arduino` `C++` `ESP32` `Raspberry Pi` `RTL-SDR`
+
+**DevOps & Infrastructure**
+
+`Docker` `Linux` `Git` `GitHub` `Proxmox` `TrueNAS` `Nginx` `Tailscale` `WireGuard`
+
+**Embedded & Hardware**
+
+`Arduino` `ESP32` `Raspberry Pi` `RTL-SDR`
+
+**RF & Communications**
+
+`SDR` `RF` `VHF` `UHF` `HF` `FT8` `Amateur Radio` `Satellite Communications`
+
+---
+
+## Current Focus
+
+* Mechatronics and control systems
+* Embedded systems
+* Electronics and RF engineering
+* Software development
+* Linux and infrastructure
+* Robotics and automation
+* Satellite systems
+* Radio communications
+* Space-related engineering
 
 ---
 
 <div align="center">
 
-<sub>Engineering • Software • Electronics • Infrastructure</sub>
+### Engineering across hardware, software, and the physical world.
+
+<br>
+
+<sub>Mechatronics • Electronics • Software • RF • Space Systems • Infrastructure</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e87a,100:007a3d&height=100&section=footer" width="100%" alt="Footer wave"/>
 
