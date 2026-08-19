@@ -127,37 +127,6 @@ A few areas I've spent time experimenting with:
 
 ---
 
-## Current Interests
-
-```text
-Mechatronics
-    ├── Embedded Systems
-    ├── Electronics
-    ├── Robotics
-    └── Control Systems
-
-Software
-    ├── Python
-    ├── Backend Development
-    ├── Databases
-    └── Automation
-
-Infrastructure
-    ├── Linux
-    ├── Docker
-    ├── Networking
-    └── Homelabbing
-
-RF & Space
-    ├── SDR
-    ├── Amateur Radio
-    ├── Satellites
-    ├── Radio Astronomy
-    └── Rocketry
-```
-
----
-
 ## Currently Learning
 
 `Control Systems` · `Signals & Systems` · `Embedded Systems`
