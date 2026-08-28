@@ -1,159 +1,47 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e87a,100:007a3d&height=230&section=header&text=NotHazlay&fontSize=72&fontColor=ffffff&fontAlignY=38&fontStyle=bold&desc=Mechatronics%20%7C%20Software%20%7C%20Electronics%20%7C%20RF%20%7C%20Space&descSize=18&descAlignY=58&descColor=ffffffcc&animation=fadeIn&stroke=ffffff&strokeWidth=2" width="100%" alt="NotHazlay GitHub Profile"/>
-
-<br>
-
-**Mechatronics engineering student building things across hardware and software.**
-
-`Engineering` · `Software` · `Electronics` · `RF` · `Space Systems` · `Infrastructure`
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e87a,100:007a3d&height=200&section=header&text=NotHazlay&fontSize=64&fontColor=ffffff&fontAlignY=36&fontStyle=bold&desc=Mechatronics%20%7C%20Software%20%7C%20RF%20%7C%20Space&descSize=16&descAlignY=55&descColor=ffffffcc&animation=fadeIn" width="100%" alt="NotHazlay"/>
 
 </div>
 
----
+Mechatronics engineering student working across hardware, software, and RF. I like projects that don't sit neatly in one discipline — embedded systems, RF experimentation, satellite reception, radio astronomy, homelab infrastructure, and the occasional amateur rocket.
 
-## About
-
-I'm a **mechatronics engineering student** interested in the intersection of hardware, software, communications, and physical systems.
-
-I like projects that sit somewhere between disciplines — building embedded systems, writing software, running infrastructure, experimenting with RF, receiving satellites, exploring radio astronomy, and working on amateur rocketry.
-
-I learn best by building things, testing them, breaking them, and figuring out what went wrong.
-
-> **Curiosity is the starting point. Building is the method.**
+*If it emits a signal, I want to receive it. If it doesn't move, I want to make it move.*
 
 ---
 
-## What I Work With
+### Domains
+
+| | Focus |
+|---|---|
+| **RF & Radio** | SDR, DIY antennas, VHF/UHF/HF, digital modes, amateur radio (FT8) |
+| **Space** | Satellite reception & telemetry, radio astronomy (hydrogen-line work), amateur rocketry |
+| **Embedded & Robotics** | Arduino, ESP32, Raspberry Pi, control systems, automation |
+| **Software & Infra** | Python/Node backends, Docker homelab (Proxmox, TrueNAS), Tailscale/WireGuard networking |
+
+---
+
+### Toolkit
 
 <div align="center">
-
-### Software
-
-<img src="https://skillicons.dev/icons?i=python,js,html,bash" height="48"/>
-
-`Python` `JavaScript` `HTML5` `Bash`
-
-### Backend & Databases
-
-<img src="https://skillicons.dev/icons?i=nodejs,postgres,mysql" height="48"/>
-
-`Node.js` `PostgreSQL` `MySQL`
-
-### DevOps & Infrastructure
-
-<img src="https://skillicons.dev/icons?i=docker,linux,nginx,git,github" height="48"/>
-
-`Docker` `Linux` `Nginx` `Git` `GitHub`
-
-`Proxmox` `TrueNAS` `Tailscale` `WireGuard` `Networking`
-
-### Embedded & Electronics
-
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,cpp" height="48"/>
-
-`Arduino` `C++` `ESP32` `Raspberry Pi`
-
+<img src="https://skillicons.dev/icons?i=python,js,cpp,arduino,raspberrypi,nodejs,postgres,mysql,docker,linux,nginx,git,github" height="44"/>
 </div>
 
 ---
 
-## Beyond the Code
+### Currently digging into
 
-<table>
-<tr>
-<td align="center" width="25%">
-
-### RF
-
-SDR
-Antennas
-VHF / UHF / HF
-Digital Modes
-RF Experimentation
-
-</td>
-
-<td align="center" width="25%">
-
-### Radio
-
-Amateur Radio
-FT8
-Digital Communications
-Signal Reception
-
-</td>
-
-<td align="center" width="25%">
-
-### Space
-
-Satellite Reception
-Telemetry
-Satellite Communications
-Radio Astronomy
-
-</td>
-
-<td align="center" width="25%">
-
-### Engineering
-
-Mechatronics
-Robotics
-Automation
-Amateur Rocketry
-
-</td>
-</tr>
-</table>
-
----
-
-## Things I've Built
-
-A few areas I've spent time experimenting with:
-
-* **Homelab infrastructure** — Docker, virtualization, storage, networking and self-hosted services
-* **Embedded systems** — Arduino, ESP32 and Raspberry Pi projects
-* **RF systems** — SDRs, DIY antennas, VHF/UHF experimentation and signal reception
-* **Amateur radio** — digital modes, FT8 and satellite communications
-* **Satellite reception** — weather satellites, telemetry and experimental satellite systems
-* **Radio astronomy** — experimental hydrogen-line observations and RF systems
-* **Automation** — hardware and software systems designed to interact with the physical world
-* **Software** — Python applications, databases, backend systems and automation
-* **Space engineering** — satellite systems and amateur rocketry
-
----
-
-## Currently Learning
-
-`Control Systems` · `Signals & Systems` · `Embedded Systems`
-`RF Engineering` · `Robotics` · `Linux` · `Networking` · `Satellite Systems`
-
----
-
-## GitHub
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=NotHazlay&show_icons=true&theme=transparent&hide_border=true&title_color=00e87a&icon_color=00e87a&text_color=888888" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotHazlay&layout=compact&theme=transparent&hide_border=true&title_color=00e87a&text_color=888888" height="165"/>
-
-</div>
+Control systems & signals theory · RF engineering fundamentals · satellite systems design · advanced networking
 
 ---
 
 <div align="center">
 
-### Build. Experiment. Iterate.
+<img src="https://github-readme-stats.vercel.app/api?username=NotHazlay&show_icons=true&theme=transparent&hide_border=true&title_color=00e87a&icon_color=00e87a&text_color=888888" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotHazlay&layout=compact&theme=transparent&hide_border=true&title_color=00e87a&text_color=888888" height="160"/>
 
-<sub>Hardware · Software · RF · Space · Infrastructure</sub>
+</div>
 
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e87a,100:007a3d&height=100&section=footer" width="100%" alt="Footer"/>
-
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e87a,100:007a3d&height=90&section=footer" width="100%" alt=""/>
 </div>
